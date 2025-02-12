@@ -25,6 +25,7 @@ Enlaces a recursos relacionados con Unity
 * [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity)
 
 # Enlaces vídeotutoriales de Fernando Paniagua
+* [Canal de YouTube de Fernando Paniagua Formación](https://www.youtube.com/@fernandopaniaguaformacion)
 * [Introducción a la creación de materiales](https://www.youtube.com/watch?v=mGKNA-ic0k8)
 * [Introducción a la creación de terrenos](https://www.youtube.com/watch?v=ZLFvQUWpqfw)
 * [Introducción a los prefabs](https://www.youtube.com/watch?v=wt9x5mACwvg)
