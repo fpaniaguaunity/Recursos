@@ -21,7 +21,8 @@ Enlaces a recursos relacionados con Unity
 * [Generador de SkyBox](https://tools.wwwtyro.net/space-3d/index.html)
 * [Terrain.party - Mapas de terreno](https://terrain.party/)
 * [Modelos 3D - Smithsonian](https://3d.si.edu/)
-* [jsfxr - Generador de sonidos 8bit](https://sfxr.me/) 
+* [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)
+* [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity)
 
 # Enlaces vídeotutoriales de Fernando Paniagua
 * [Introducción a la creación de materiales](https://www.youtube.com/watch?v=mGKNA-ic0k8)
