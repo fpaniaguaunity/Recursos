@@ -23,7 +23,7 @@ Enlaces a recursos relacionados con Unity
 * [Modelos 3D - Smithsonian](https://3d.si.edu/)
 * [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)* 
 
-# Enlaces vídeotutoriales Fernando Paniagua
+# Enlaces vídeotutoriales de Fernando Paniagua
 * [Introducción a la creación de materiales](https://www.youtube.com/watch?v=mGKNA-ic0k8)
 * [Introducción a la creación de terrenos](https://www.youtube.com/watch?v=ZLFvQUWpqfw)
 * [Introducción a los prefabs](https://www.youtube.com/watch?v=wt9x5mACwvg)
