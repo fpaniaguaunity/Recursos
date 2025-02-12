@@ -9,6 +9,7 @@ Enlaces a recursos relacionados con Unity
 * [Unity Manual 2D](https://docs.unity3d.com/Manual/Unity2D.html)
 * [Unity ebooks](https://unity.com/es/resources?filters=e-book)
 * [The ultimate guide to multiplayer networking for advanced Unity developers (ebook)](https://unity.com/es/resources/ultimate-guide-advanced-multiplayer-networking)
+* [Setting up the Input System in Unity 6](https://learn.unity.com/tutorial/setting-up-the-input-system-u6)
 
 # Enlaces a recursos
 * [Asset Store de Unity](https://assetstore.unity.com/)
