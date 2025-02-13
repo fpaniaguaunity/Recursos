@@ -23,6 +23,7 @@ Enlaces a recursos relacionados con Unity
 * [Modelos 3D - Smithsonian](https://3d.si.edu/)
 * [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)
 * [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity)
+* [Synty Store - 3D Assets](https://syntystore.com/)
 
 # Enlaces vídeotutoriales de Fernando Paniagua
 * [Canal de YouTube de Fernando Paniagua Formación](https://www.youtube.com/@fernandopaniaguaformacion)
