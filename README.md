@@ -18,13 +18,20 @@ Enlaces a recursos relacionados con Unity
 * [Modelos 3D de NASA](https://nasa3d.arc.nasa.gov/models)
 * [OpenGameArt - Assets](https://opengameart.org/)
 * [FreeSound](https://freesound.org/)
-* [Generador de SkyBox](https://tools.wwwtyro.net/space-3d/index.html)
-* [Terrain.party - Mapas de terreno](https://terrain.party/)
 * [Modelos 3D - Smithsonian](https://3d.si.edu/)
-* [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)
 * [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity)
 * [Synty Store - 3D Assets](https://syntystore.com/)
+
+# Herramientas
 * [Goxel - Editor Voxel Open Source](https://goxel.xyz/)
+* [MagicaVoxel - Editor Voxel Free] (https://ephtracy.github.io/)
+* [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)
+* [Generador de SkyBox](https://tools.wwwtyro.net/space-3d/index.html)
+* [Terrain.party - Mapas de terreno](https://terrain.party/)
+* [Blender - Herramienta de modelado 3D Free](https://www.blender.org/)
+* [Gimp - Editor de imágenes Free](https://www.gimp.org/)
+* [Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
+
 
 # Enlaces vídeotutoriales de Fernando Paniagua
 * [Canal de YouTube de Fernando Paniagua Formación](https://www.youtube.com/@fernandopaniaguaformacion)
