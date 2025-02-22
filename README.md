@@ -24,7 +24,7 @@ Enlaces a recursos relacionados con Unity
 
 # Herramientas
 * [Goxel - Editor Voxel Open Source](https://goxel.xyz/)
-* [MagicaVoxel - Editor Voxel Free] (https://ephtracy.github.io/)
+* [MagicaVoxel - Editor Voxel Free](https://ephtracy.github.io/)
 * [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)
 * [Generador de SkyBox](https://tools.wwwtyro.net/space-3d/index.html)
 * [Terrain.party - Mapas de terreno](https://terrain.party/)
