@@ -24,6 +24,7 @@ Enlaces a recursos relacionados con Unity
 * [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)
 * [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity)
 * [Synty Store - 3D Assets](https://syntystore.com/)
+* [Goxel - Editor Voxel Open Source](https://goxel.xyz/)
 
 # Enlaces vídeotutoriales de Fernando Paniagua
 * [Canal de YouTube de Fernando Paniagua Formación](https://www.youtube.com/@fernandopaniaguaformacion)
