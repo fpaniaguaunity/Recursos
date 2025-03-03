@@ -32,6 +32,12 @@ Enlaces a recursos relacionados con Unity
 * [Gimp - Editor de imágenes Free](https://www.gimp.org/)
 * [Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
 
+# Shaders y VFX en YouTube
+* [Shader Graph: Learn with Feature Examples | Tutorial](https://youtu.be/7Rqrk8hMooU)
+* [Shader Graph: Production Ready Shader Samples | Tutorial](https://youtu.be/iV79HBv6co4)
+* [VFX Graph Learning Templates | Tutorial](https://youtu.be/DKVdg8DsIVY)
+* [Stunning Visuals with ZERO code using Unity's VFX Graph](https://www.youtube.com/live/rwOT-wB6Y9w)
+* [Definitive guide to creating advanced visual effects in Unity | Unity](https://youtu.be/bSNzfONkmoY)
 
 # Enlaces vídeotutoriales de Fernando Paniagua
 * [Canal de YouTube de Fernando Paniagua Formación](https://www.youtube.com/@fernandopaniaguaformacion)
