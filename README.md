@@ -32,6 +32,15 @@ Enlaces a recursos relacionados con Unity
 * [Gimp - Editor de imágenes Free](https://www.gimp.org/)
 * [Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
 
+# Assets interesantes
+* [Starter Assets: Character Controllers | URP](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
+* [Starter Assets - FirstPerson | Updates in new CharacterController package](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
+* [Starter Assets - ThirdPerson | Updates in new CharacterController package](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526)
+* [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
+* [Particle Pack](https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325)
+* [Robot Kyle | URP](https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696)
+* [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631)
+
 # Shaders y VFX en YouTube
 * [Shader Graph: Learn with Feature Examples | Tutorial](https://youtu.be/7Rqrk8hMooU)
 * [Shader Graph: Production Ready Shader Samples | Tutorial](https://youtu.be/iV79HBv6co4)
