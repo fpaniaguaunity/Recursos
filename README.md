@@ -2,7 +2,7 @@
 Enlaces a recursos relacionados con Unity
 
 ![Ilustración de personas desarrollando un videojuego](https://fpaniaguaunity.github.io/portada-recursos.webp)
-# Enlaces Unity Oficial
+# Unity Oficial
 * [Unity](https://unity.com/)
 * [Unity download](https://unity.com/download)
 * [Unity Manual](https://docs.unity3d.com/Manual/) :closed_book: 
@@ -11,7 +11,10 @@ Enlaces a recursos relacionados con Unity
 * [The ultimate guide to multiplayer networking for advanced Unity developers (ebook)](https://unity.com/es/resources/ultimate-guide-advanced-multiplayer-networking) :closed_book:
 * [Setting up the Input System in Unity 6](https://learn.unity.com/tutorial/setting-up-the-input-system-u6)
 
-# Enlaces a recursos
+# Aprendizaje
+* [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity) :closed_book:
+
+# Webs y tiendas de assets
 * [Asset Store de Unity](https://assetstore.unity.com/) :fire: 
 * [Kenney Assets - Assets gratuitos](https://kenney.nl/assets) :fire: 
 * [Mixamo - Modelos y animaciones de humanoides](https://www.mixamo.com/) :fire: 
@@ -20,7 +23,6 @@ Enlaces a recursos relacionados con Unity
 * [OpenGameArt - Assets](https://opengameart.org/)
 * [FreeSound](https://freesound.org/) :loudspeaker:
 * [Modelos 3D - Smithsonian](https://3d.si.edu/)
-* [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity) :closed_book:
 * [Synty Store - 3D Assets](https://syntystore.com/)
 
 # Herramientas
