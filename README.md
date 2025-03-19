@@ -5,29 +5,30 @@ Enlaces a recursos relacionados con Unity
 # Enlaces Unity Oficial
 * [Unity](https://unity.com/)
 * [Unity download](https://unity.com/download)
-* [Unity Manual](https://docs.unity3d.com/Manual/)
-* [Unity Manual 2D](https://docs.unity3d.com/Manual/Unity2D.html)
-* [Unity ebooks](https://unity.com/es/resources?filters=e-book)
-* [The ultimate guide to multiplayer networking for advanced Unity developers (ebook)](https://unity.com/es/resources/ultimate-guide-advanced-multiplayer-networking)
+* [Unity Manual](https://docs.unity3d.com/Manual/) :closed_book: 
+* [Unity Manual 2D](https://docs.unity3d.com/Manual/Unity2D.html) :closed_book:  
+* [Unity ebooks](https://unity.com/es/resources?filters=e-book) :closed_book:
+* [The ultimate guide to multiplayer networking for advanced Unity developers (ebook)](https://unity.com/es/resources/ultimate-guide-advanced-multiplayer-networking) :closed_book:
 * [Setting up the Input System in Unity 6](https://learn.unity.com/tutorial/setting-up-the-input-system-u6)
 
 # Enlaces a recursos
-* [Asset Store de Unity](https://assetstore.unity.com/)
-* [Kenney Assets - Assets gratuitos](https://kenney.nl/assets)
-* [Mixamo - Modelos y animaciones de humanoides](https://www.mixamo.com/)
-* [Modelos 3D de NASA](https://nasa3d.arc.nasa.gov/models)
+* [Asset Store de Unity](https://assetstore.unity.com/) :fire: 
+* [Kenney Assets - Assets gratuitos](https://kenney.nl/assets) :fire: 
+* [Mixamo - Modelos y animaciones de humanoides](https://www.mixamo.com/) :fire: 
+* [Top game assets - itch.io](https://itch.io/game-assets) :fire: 
+* [Modelos 3D de NASA](https://nasa3d.arc.nasa.gov/models) :stars:
 * [OpenGameArt - Assets](https://opengameart.org/)
-* [FreeSound](https://freesound.org/)
+* [FreeSound](https://freesound.org/) :loudspeaker:
 * [Modelos 3D - Smithsonian](https://3d.si.edu/)
-* [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity)
+* [Jettelly - Libros digitales](https://jettelly.com/t/engine/unity) :closed_book:
 * [Synty Store - 3D Assets](https://syntystore.com/)
 
 # Herramientas
 * [Goxel - Editor Voxel Open Source](https://goxel.xyz/)
 * [MagicaVoxel - Editor Voxel Free](https://ephtracy.github.io/)
-* [jsfxr - Generador de sonidos 8bit](https://sfxr.me/)
-* [Generador de SkyBox](https://tools.wwwtyro.net/space-3d/index.html)
-* [Terrain.party - Mapas de terreno](https://terrain.party/)
+* [jsfxr - Generador de sonidos 8bit](https://sfxr.me/) :fire: :loudspeaker:
+* [Generador de SkyBox](https://tools.wwwtyro.net/space-3d/index.html) :earth_africa:
+* [Terrain.party - Mapas de terreno](https://terrain.party/) :earth_africa:
 * [Blender - Herramienta de modelado 3D Free](https://www.blender.org/)
 * [Gimp - Editor de imágenes Free](https://www.gimp.org/)
 * [Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
@@ -36,8 +37,8 @@ Enlaces a recursos relacionados con Unity
 * [Starter Assets: Character Controllers | URP](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
 * [Starter Assets - FirstPerson | Updates in new CharacterController package](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
 * [Starter Assets - ThirdPerson | Updates in new CharacterController package](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526)
-* [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
-* [Particle Pack](https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325)
+* [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808) :earth_africa:
+* [Particle Pack](https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325) :boom:
 * [Robot Kyle | URP](https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696)
 * [Joystick Pack](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631)
 
@@ -49,7 +50,7 @@ Enlaces a recursos relacionados con Unity
 * [Definitive guide to creating advanced visual effects in Unity | Unity](https://youtu.be/bSNzfONkmoY)
 
 # Enlaces vídeotutoriales de Fernando Paniagua
-* [Canal de YouTube de Fernando Paniagua Formación](https://www.youtube.com/@fernandopaniaguaformacion)
+* [Canal de YouTube de Fernando Paniagua Formación](https://www.youtube.com/@fernandopaniaguaformacion) :heart_hands: 
 * [Introducción a la creación de materiales](https://www.youtube.com/watch?v=mGKNA-ic0k8)
 * [Introducción a la creación de terrenos](https://www.youtube.com/watch?v=ZLFvQUWpqfw)
 * [Introducción a los prefabs](https://www.youtube.com/watch?v=wt9x5mACwvg)
