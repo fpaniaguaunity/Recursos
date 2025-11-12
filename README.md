@@ -35,6 +35,7 @@ Enlaces a recursos relacionados con Unity
 * [Gimp - Editor de imágenes Free](https://www.gimp.org/)
 * [Universal LPC Spritesheet Generator](https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator)
 * [HYPER3D - Generador de modelos 3D basado en IA](https://hyper3d.ai/)
+* [3d.csm.ai - Generador de modelos 3D basado en IA](https://3d.csm.ai/)
 
 # Assets interesantes
 * [Starter Assets: Character Controllers | URP](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
