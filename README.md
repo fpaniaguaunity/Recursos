@@ -17,7 +17,8 @@ Enlaces a recursos relacionados con Unity
 # Webs y tiendas de assets
 * [Asset Store de Unity](https://assetstore.unity.com/) :fire: 
 * [Kenney Assets - Assets gratuitos](https://kenney.nl/assets) :fire: 
-* [Mixamo - Modelos y animaciones de humanoides](https://www.mixamo.com/) :fire: 
+* [Mixamo - Modelos y animaciones de humanoides](https://www.mixamo.com/) :fire:
+* [2D Game Assets Store & Free](https://craftpix.net/) :video_game:
 * [Top game assets - itch.io](https://itch.io/game-assets) :fire: 
 * [Modelos 3D de NASA](https://nasa3d.arc.nasa.gov/models) :stars:
 * [OpenGameArt - Assets](https://opengameart.org/)
